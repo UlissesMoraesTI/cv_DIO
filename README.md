@@ -6,7 +6,7 @@ O projeto foi desenvolvido com finalidade de estudos, onde utilizamos conceitos 
 
 Ele também pode ser utilizado como currículo ‘vitae’ e porrifólio pessoal.
 
-Referências e fork do projeto: 
+Referências e Fork do projeto: 
 
 Venilton Falvo Jr: https://github.com/falvojr/cv
 
@@ -26,7 +26,7 @@ Há várias formas de iniciar o desenvolvimento do seu projeto, como:
 
 1. Vamos começar fazendo o Fork do nosso projeto em: https://github.com/falvojr/cv
 2. Ao criar o projeto podemos utilizar o próprio GitHub como IDE utilizando o (.) na página inicial do projeto.
-3. Github Pages para visualizamos e compartilhamos nosso CV online com todos.****
+3. Github Pages para visualizamos e compartilhamos nosso CV online com todos.
 
 **Dicas:**
 
