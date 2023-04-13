@@ -4,11 +4,13 @@ Sejam todos bem vindos ao projeto de Curriculum Vitae Online da DIO.
 
 O projeto foi desenvolvido com finalidade de estudos, onde utilizamos conceitos de html e css.
 
-Ele também pode ser utilizado como currículo ‘vitae’ e porrifólio pessoal.
+Ele também pode ser utilizado como currículo ‘vitae’ e portfolio pessoal.
 
-Referências e Fork do projeto: 
+**Fork do projeto:** 
 
-Venilton Falvo Jr: https://github.com/falvojr/cv
+https://github.com/digitalinnovationone/cv
+
+**Referências:**
 
 W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
 
