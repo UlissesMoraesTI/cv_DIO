@@ -90,20 +90,7 @@ Algumas das principais tags e conceitos que utilizamos para o desenvolvimento de
 
 ### 🔴 CSS:
 
-- `body`: definição de estilo para o corpo do documento HTML, incluindo a cor de fundo.
-- `#iconGithub`: estilo para um ícone específico identificado por um ID (usando o seletor `#`).
-- `#iconsPerfil`: estilo para outro ícone identificado por um ID.
-- `#footerBack`: estilo para o rodapé da página.
-- `#CardEsquerda`: estilo para um cartão de informações à esquerda da página.
-- `#cardCentralSobre`: estilo para um cartão de informações no centro da página.
-- `#iconSobre`: estilo para um ícone no cartão de informações central.
-- `#tdsTexSobre`: estilo para o texto no cartão de informações central.
-- `.sobreText`: estilo para outras partes do texto no cartão de informações central.
-- `#cardExperiencias`: estilo para um cartão de informações sobre experiências.
-- `#cardEducacao`: estilo para um cartão de informações sobre educação.
-- `.textExp`: estilo para o texto em uma seção de experiências.
-- `.iconCalData1`, `.iconCalData2`, `.iconCalData3`: estilos para ícones que representam datas em seções de experiências.
-- `.textExp1`, `.textExp2`, `.textExp3`: estilos para o texto em seções de experiências.
+- 
 
 
 
