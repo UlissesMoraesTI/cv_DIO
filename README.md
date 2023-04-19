@@ -1,8 +1,8 @@
-# Curriculum Vitae (CV) Online
+# Curriculum Vitae Online
 
-Sejam todos bem vindos ao projeto de Curriculum Vitae Online da DIO.
+Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One.
 
-O projeto foi desenvolvido com finalidade de estudos, onde utilizamos conceitos de html e css.
+O projeto tem como objetivo montar nossa primeira página web que será a replica de um CV Online, utilizando conceitos de html e Github Pages. Ao  fim teremos nosso currículo pronto e disponível de forma estática.
 
 Ele também pode ser utilizado como currículo ‘vitae’ e portfolio pessoal.
 
@@ -13,8 +13,6 @@ https://github.com/digitalinnovationone/cv
 **Referências:**
 
 W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
-
-
 
 ### ✅ Desenvolvendo Seu Curriculum Vitae Online:
 
@@ -32,11 +30,9 @@ Há várias formas de iniciar o desenvolvimento do seu projeto, como:
 
 **Dicas:**
 
-Para visualizar o resultado do seu projeto no navegador, você pode  utilizar o Live Server, uma extensão do VSCode que permite abrir o  projeto no navegador e atualizá-lo automaticamente a cada alteração no  código ou pode utilizar o Github Pages.
+Para visualizar o resultado do seu projeto no navegador, você pode  utilizar o Live Server, uma extensão do VSCode que permite abrir o  projeto no navegador e atualiza-lo automaticamente a cada alteração no  código ou pode utilizar o Github Pages.
 
 Lembre-se de incluir comentários no seu código para facilitar a compreensão e a manutenção futura do projeto. Boa sorte!
-
-### 
 
 ### 📑 CONCEITOS UTILIZADOS
 
@@ -109,6 +105,20 @@ Algumas das principais tags e conceitos que utilizamos para o desenvolvimento de
 - `<div>` - Cria um elemento de divisão genérico
 - `<img>` - Define uma imagem a ser exibida
 - `<button>` - Cria um botão clicável
+
+
+
+### 🔴 CI / CD - CI (Integração Contínua) e CD (Entrega Contínua)
+
+O CI e CD são duas práticas essenciais para a área de desenvolvimento de software, pois, eles tem como objetivo facilitar e agilizar o processo de entrega de software de qualidade.
+
+CI é um processo em que desenvolvedores integram o código que estão trabalhando com frequência em um repositório compartilhado, o que permite que o código seja testado automaticamente assim que é integrado. Isso ajuda a garantir que o código funcione corretamente e que não haja conflitos com outras partes do sistema.
+
+Já o CD é um processo que visa automatizar a entrega do software em produção de forma contínua, assim que o código passa por todos os testes necessários. Isso permite que as alterações no software sejam entregues rapidamente e de forma confiável.
+
+Em resumo, CI e CD são práticas que ajudam a garantir a qualidade do software e a agilizar o processo de entrega, tornando-o mais confiável e eficiente.
+
+
 
 
 
