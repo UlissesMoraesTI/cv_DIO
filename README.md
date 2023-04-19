@@ -86,7 +86,29 @@ Algumas das principais tags e conceitos que utilizamos para o desenvolvimento de
 
 ### 🔴 CSS:
 
-- 
+    .w3-twothird: define um elemento com largura de dois terços do contêiner pai.
+    .w3-container: define um contêiner com largura máxima de 1170 pixels e centralizado horizontalmente.
+    .w3-center: centraliza o conteúdo horizontalmente dentro de um elemento.
+    .w3-card: cria um elemento com sombra que se assemelha a um cartão.
+    .fa: aplica estilos aos ícones da fonte Awesome.
+
+Propriedades CSS utilizadas no exemplo:
+
+    color: define a cor do texto.
+    background-color: define a cor de fundo do elemento.
+    font-size: define o tamanho da fonte.
+    padding: define o preenchimento interno do elemento.
+    margin: define a margem externa do elemento.
+    text-align: define o alinhamento horizontal do texto.
+    box-shadow: cria uma sombra ao redor do elemento.
+    display: define o tipo de exibição do elemento (por exemplo, block, inline, flex, etc).
+    border-radius: define o raio dos cantos do elemento.
+
+Outros conceitos CSS:
+
+    Font Awesome: é uma biblioteca de ícones vetoriais que podem ser personalizados com CSS. É comumente usado para adicionar ícones a sites e aplicativos da web.
+    Box model: é um conceito fundamental do CSS que define como um elemento HTML é renderizado. Cada elemento é composto por conteúdo, preenchimento, borda e margem, que juntos formam o "modelo de caixa" do elemento.
+    Responsividade: é a capacidade de um site ou aplicativo da web de se adaptar a diferentes tamanhos de tela e dispositivos, proporcionando uma experiência de usuário consistente em todos eles. No exemplo, a classe .w3-twothird é usada para definir a largura de um elemento em dois terços do contêiner pai, tornando-o responsivo em telas de diferentes tamanhos.
 
 
 
