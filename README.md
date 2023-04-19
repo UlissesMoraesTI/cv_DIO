@@ -82,7 +82,6 @@ Algumas das principais tags e conceitos que utilizamos para o desenvolvimento de
 
 - `<footer>` define a seção de rodapé da página.
 
-  
 
 ### 🔴 CSS:
 - w3-twothird: define um elemento com largura de dois terços do contêiner pai.
@@ -105,6 +104,7 @@ Propriedades CSS utilizadas no exemplo:
 
 Outros conceitos CSS:
 
+- Definição Seletores Id e Class: O seletor de ID é indicado pelo caractere '#' seguido pelo nome do ID do elemento HTML. O seletor de classe é indicado pelo caractere '.' seguido pelo nome da classe do elemento HTML.
 - Font Awesome: é uma biblioteca de ícones vetoriais que podem ser personalizados com CSS. É comumente usado para adicionar ícones a sites e aplicativos da web.
 - Box model: é um conceito fundamental do CSS que define como um elemento HTML é renderizado. Cada elemento é composto por conteúdo, preenchimento, borda e margem, que juntos formam o "modelo de caixa" do elemento.
 - Responsividade: é a capacidade de um site ou aplicativo da web de se adaptar a diferentes tamanhos de tela e dispositivos, proporcionando uma experiência de usuário consistente em todos eles. No exemplo, a classe .w3-twothird é usada para definir a largura de um elemento em dois terços do contêiner pai, tornando-o responsivo em telas de diferentes tamanhos.
